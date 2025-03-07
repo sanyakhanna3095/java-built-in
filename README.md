@@ -1,4 +1,4 @@
-#DATE AND TIME
+# DATE AND TIME
 newer versions (from Java 8 onwards) introduced a much better way to work with them.
 
 1. Legacy Date and Time API (Before Java 8):
